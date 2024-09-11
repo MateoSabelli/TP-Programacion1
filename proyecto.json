@@ -1,0 +1,1 @@
+{"nombre": "Sistema de Gesti\u00f3n de Inventario", "tareas": [{"nombre": "Dise\u00f1o de base de datos", "estado": "Pendiente"}, {"nombre": "Implementaci\u00f3n de backend", "estado": "Pendiente"}, {"nombre": "Desarrollo de interfaz de usuario", "estado": "Pendiente"}], "equipo": ["Ana", "Carlos", "Elena"], "matriz_asignacion": [[1, 0, 0], [0, 1, 0], [0, 0, 1]]}
