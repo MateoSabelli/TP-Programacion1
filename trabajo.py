@@ -100,5 +100,3 @@ if __name__ == "__main__":
     # Generar y mostrar reporte
     print(nuevo_proyecto.generar_reporte())
 
-
-print("Fin del programa")
